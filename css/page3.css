@@ -1,0 +1,43 @@
+table {
+    width: 600px;
+    margin-top: 20px;
+}
+table, tr, th, td {
+    border: 0px black;
+    border-collapse: collapse;
+}
+td, tr {
+    padding: 5px;
+}
+img {
+    width: 200px;
+    height: 130px;
+}
+#menu {
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(255, 140, 0, 0.596);
+}
+#content {
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color:bisque;
+}
+#footer {
+    width: auto;
+    height: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: darkgoldenrod;
+}
